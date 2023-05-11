@@ -1,0 +1,112 @@
+  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+#navbarSupportedContent > ul > li:nth-child(n) > a{
+    padding-left: 30px;
+    font-family: 'Lato', sans-serif;
+}
+.navbar{
+    background-color: lightgray;
+}
+.main{
+    background-image: url(vecteezy_back-to-school-banner-with-hand-drawn-line-art-icons-of_5948321.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.main p{
+    color: white;
+    text-align: center;
+    padding-top: 20%;
+    font-family: 'Lato', sans-serif;
+}
+.main h3{
+    color: white;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.d-flex{
+    padding-left: 30px;
+}
+.new{
+    display: flex;
+}
+.make{
+    padding-top: 60px;
+}
+.new .happy img{
+    padding-top: 50px;
+}
+.new .make h2{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding-top: 70px;
+}
+.new .make p{
+    font-family: 'Lato', sans-serif;
+    padding-top: 20px;
+}
+.image{
+    background: url(download0.png),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    height: 60vh;
+    width: 100%;
+    background-size: cover;
+    padding-top:29px;
+    background-blend-mode: overlay;
+}
+.image p{
+    color: aliceblue;
+    font-family: 'Lato', sans-serif;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10%;
+}
+button{
+    background-color: transparent;
+    color: white;
+    padding:5px;
+    padding-left: 5px;
+    border: 1.5px solid white;
+    margin-left: 20%;
+    margin-right:20%;
+    font-family: 'Lato', sans-serif;
+}
+.fa-solid{
+    font-weight:lighter;
+    font-family: 'Lato', sans-serif;
+ 
+}
+footer{
+    background-color: black;
+}
+footer h3{
+color: white;
+font-family: 'Lato', sans-serif;
+padding-left: 41.5%;
+padding-right: 20%;
+padding-top: 7%;
+}
+footer p{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    padding-left: 41.5%;
+    padding-right: 20%;
+}
+.font{
+    display: flex;
+    padding-left: 45%;
+}
+ ul li{
+   list-style: none;
+   text-decoration: none;
+}
+.fa-brands{
+    color: white;
+    padding-right:10px
+}
+.font{
+    padding-bottom: 7%;
+}
